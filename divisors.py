@@ -7,3 +7,4 @@ for i in range(1, number + 1):
         print(1, end="")
 
 print()
+#202434780 송진하
